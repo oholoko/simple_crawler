@@ -1,0 +1,24 @@
+{
+  "name": "simple_crawler",
+  "version": "0.0.2",
+  "description": "A simple hubspot crawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oholoko/simple_crawler.git"
+  },
+  "author": "Josué Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oholoko/simple_crawler/issues"
+  },
+  "homepage": "https://github.com/oholoko/simple_crawler#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.5.7"
+  }
+}
